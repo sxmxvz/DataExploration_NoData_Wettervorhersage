@@ -1,2 +1,7 @@
 If we give the algo more data -> than 48% -> 52%
 If we fill the -999 values and doesn´t delte them: 52.02% ->58.43%
+If less prections -> than better score
+
+Next Step:
+d-tree?
+split in max and min temp for each day
