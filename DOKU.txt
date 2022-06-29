@@ -3,5 +3,14 @@ If we fill the -999 values and doesn´t delte them: 52.02% ->58.43%
 If less prections -> than better score
 
 Next Step:
-d-tree?
 split in max and min temp for each day
+dann vorhersage für 1 Tag
+1 Woche 
+2 Wochen 
+3 Wochen
+
+
+!!!!in die read me
+zielsetzung des projekts
+wer hat mitgemacht
+muss ich etwas beachten
