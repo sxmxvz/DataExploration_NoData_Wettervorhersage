@@ -5,25 +5,13 @@ If less prections -> than better score
 Next Step:
 
  check : split in max and min temp for each day
-Ergebnise Visualisiert darstellen 
-
-
-dann vorhersage für 1 Tag
-1 Woche 
-2 Wochen 
-4 Wochen bzw. 1 Monat
-1 Jahr für vergleich
 
 
 
+An main copy zeigen, dass es Unterschied macht wie groß die Daten sind
 
 
 
-Tage fehlen
-05.03.2012
-09.12.2013
-
-Testen ob Unterschied wenn Daten ab 2014 oder wenn Daten ab 2012 -> fehlen der Daten Auswrikung aufzeigen
 
 !!!!in die read me
 zielsetzung des projekts
